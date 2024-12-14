@@ -62,7 +62,7 @@ class HomePage extends StatelessWidget {
               
               
               labelStyle: TextStyle(fontSize: 20),
-              labelPadding: EdgeInsets.symmetric(horizontal: 15),
+              labelPadding: EdgeInsets.symmetric(horizontal: 9),
               tabs: [ 
                Tab(text:"Burger"),
                Tab(text:"Pizza"), 
