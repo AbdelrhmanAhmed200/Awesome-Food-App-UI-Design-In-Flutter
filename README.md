@@ -1,16 +1,22 @@
-# flutter_application_5
+# 🍔 Awesome Food App UI Design in Flutter
 
-A new Flutter project.
+This repository showcases a Flutter-based UI design for a food delivery app, demonstrating a clean and modern interface suitable for food ordering applications.
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
+![Home Screen](./images/Screen1.jpg)
+![Home Screen](./images/Screen2.jpg)
+![Home Screen](./images/Screen3.jpg)
+![Home Screen](./images/Screen4.jpg)
+*Home Screen showcasing featured restaurants and dishes.*
 
-A few resources to get you started if this is your first Flutter project:
+![Restaurant Details](./images/Screen5.jpg)
+*Detailed view of a selected restaurant with menu items.*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To explore or modify this UI design:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AbdelrhmanAhmed200/Awesome-Food-App-UI-Design-In-Flutter.git
